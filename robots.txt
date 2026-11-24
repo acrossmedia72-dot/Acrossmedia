@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://acrossmedia.vercel.app
+Sitemap: https://acrossmedia.vercel.app/sitemap.xml
